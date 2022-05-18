@@ -11,6 +11,6 @@ int main(){
     cout<<"enter the value of n"<<endl;
     cin>>n;
     cout<<"answer:"<<fib(n)<<endl;
-    cout<<"This code is done by Arshdeep kaur"<<endl;
+    cout<<"This code is done by Arzoo Bajaj"<<endl;
     return 0;
 }
